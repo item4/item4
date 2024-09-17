@@ -12,7 +12,6 @@
 * Keybase: [item4](https://keybase.io/item4)
 
 ### Works and Donates
-* Part-time Job: [here](https://about.jinsu.kim/parttime/)
 * Buy me a Coffee: [item4](https://www.buymeacoffee.com/item4/)
 * Patreon: [item4](https://www.patreon.com/item4/)
 
