@@ -7,6 +7,7 @@
 
 ### Social Network Services
 * Mastodon: [@item4@qdon.space](https://qdon.space/@item4/)
+* Bluesky: [@item4.net](https://bsky.app/profile/item4.net)
 * X(Twitter): [item4](https://twitter.com/item4)
 * Threads: [\_\_item4\_\_](https://www.threads.net/@__item4__)
 * Keybase: [item4](https://keybase.io/item4)
